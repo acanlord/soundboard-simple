@@ -1,0 +1,54 @@
+//********** ArcGIS Server 10.7.1 authorization file request form **********
+//
+//
+//Date/Time: 10/21/2019 10:05:54 AM
+//
+//Please choose one of the two options listed below to finish the authorization process.
+//1. Upload this form to the My Esri website (recommended):
+//
+//- Sign into https://my.esri.com/#/activations/secure-site
+//- Follow the instructions displayed there.
+//
+//2. Email this form to authorize@esri.com
+//------------------------------------
+//ESRI Customer Service,
+//
+//Enclosed is the registration information requested to obtain an
+//authorization file for ArcGIS Server 10.7.1
+//
+//Please return my authorization file via email to:
+//houck2@llnl.gov
+//
+//Thank you,
+//Richard Houck
+//
+//ECP Authorization information:
+//-------------------------------------------------
+
+
+// User Information
+First Name=Richard
+Last Name=Houck
+Organization=Lawrence Livermore National Laboratory
+Department=ERD
+Address 1=7000 East Ave
+Address 2=
+City=Livermore
+State=CA
+Zip/Postal Code=94550
+Location=United States
+Location Code=US
+Phone Number=9254223719
+Email=houck2@llnl.gov
+Comment=
+Provision ID=
+Your Organization=City/Town Government
+Your Industry=GIS Services
+Yourself=IT Technician
+
+// Features and authorization numbers
+ArcGIS Server=ECP637353797
+
+//End ECP Authorization information:
+//-------------------------------------------------
+
